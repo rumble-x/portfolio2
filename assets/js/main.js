@@ -89,7 +89,7 @@ jQuery(function($) {
 			slide_links: 'blank',		// Individual links for each slide (Options: false, 'num', 'name', 'blank')
 			thumb_links: 0,				// Individual thumb links for each slide
 			slides:  	[				// Slideshow Images
-							{image : '', title : '', thumb : '', url : 'https://imgur.com/a/VJY8Iup'},
+							{image : 'http://placehold.it/1920x1080', title : '', thumb : '', url : ''},
 							{image : 'http://placehold.it/1920x1080', title : '', thumb : '', url : ''},
 							{image : 'http://placehold.it/1920x1080', title : '', thumb : '', url : ''}
 						],
